@@ -4,5 +4,5 @@
 
 In this series of Jupyter notebooks, I will show how principal component analysis (PCA), spectral analysis, and other analytical techniques can provide insights into ENSO variability. These notebooks also demonstrate the [cartopy](http://scitools.org.uk/cartopy/) package for plotting geographic maps, and the [xarray](https://xarray.pydata.org/en/stable/) package for handling `netcdf` data files and easily stacking / unstacking dimensions to switch between 2-, 3-, and 4-dimensional views of the same array.
 
-Part 1: Intro and Data Preparation
-Part 2: PCA and Spectral Analysis (coming soon!)
+* Part 1: Intro and Data Preparation
+* Part 2: PCA and Spectral Analysis (coming soon!)
